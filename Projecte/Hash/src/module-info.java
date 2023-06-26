@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author DAM
+ *
+ */
+module Hash {
+}
